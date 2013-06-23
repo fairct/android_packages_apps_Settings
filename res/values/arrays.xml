@@ -77,7 +77,6 @@
         <item>1800000</item>
     </string-array>
 
->>>>>>> 3083912... Settings: Add setting in security for sms message rate alerts from CM10
     <!-- Display settings.  The delay in inactivity before the dream is shown. These are shown in a list dialog. -->
     <string-array name="dream_timeout_entries">
         <item>Never</item>
