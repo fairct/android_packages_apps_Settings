@@ -47,9 +47,6 @@
         <item>dd-MM-yyyy</item>
         <item>yyyy-MM-dd</item>
     </string-array>
-<<<<<<< HEAD
-    
-=======
 
     <!-- Display settings.  The delay in inactivity before the screen is turned off. These are shown in a list dialog. -->
     <string-array name="screen_timeout_entries">
@@ -960,18 +957,11 @@
         <item>5</item>
     </string-array>
 
-<<<<<<< HEAD
     <string-array name="entries_pie_gravity">
         <item>@string/pie_gravity_left</item>
         <item>@string/pie_gravity_top</item>
         <item>@string/pie_gravity_right</item>
         <item>@string/pie_gravity_bottom</item>
-=======
-    <string-array name="entries_network_widget">
-        <item>2G/3G+2G</item>
-        <item>2G/3G Only</item>
-        <item>2G/3G Only/3G+2G</item>
->>>>>>> 3083912... Settings: Add setting in security for sms message rate alerts from CM10
     </string-array>
 
     <string-array name="values_pie_gravity" translatable="false">
